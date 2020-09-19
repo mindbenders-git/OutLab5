@@ -10,6 +10,6 @@ https://www.learnpython.org/en/Map,_Filter,_Reduce - Q1
 https://www.geeksforgeeks.org/counting-the-frequencies-in-a-list-using-dictionary-in-python/ - Q8
 
 Git Username - mindbenders-git
-Git Link - https://github.com/mindbenders-git/Outlab3
+Git Link - https://github.com/mindbenders-git/Outlab5
 
 
